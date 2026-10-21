@@ -1,0 +1,5 @@
+tc_id,action,first_name,last_name,expected_status
+PIM01,Them nhan vien moi,AutoTest01,UserPIM01,SUCCESS
+PIM02,Them nhan vien moi,AutoTest02,UserPIM02,SUCCESS
+PIM03,Tim kiem nhan vien co ton tai,AutoTest01,,FOUND
+PIM04,Tim kiem nhan vien khong ton tai,KhongTonTaiXYZ,,NOT_FOUND

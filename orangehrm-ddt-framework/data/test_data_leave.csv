@@ -1,0 +1,3 @@
+tc_id,action,menu_item,page_heading,expected_visible
+LEAVE01,Mo trang Nghi phep,Leave,Leave,True
+LEAVE02,Mo form dang ky nghi,Apply,Apply Leave,True

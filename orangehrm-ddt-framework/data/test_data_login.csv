@@ -1,0 +1,6 @@
+tc_id,description,username,password,expected_result,expected_message
+TC01,Dang nhap thanh cong voi thong tin dung,Admin,admin123,SUCCESS,
+TC02,Dang nhap that bai sai mat khau,Admin,wrongPass,FAIL,Invalid credentials
+TC03,Dang nhap that bai sai ten dang nhap,AdminWrong,admin123,FAIL,Invalid credentials
+TC04,Bo trong ten dang nhap,,admin123,FAIL,Required
+TC05,Bo trong mat khau,Admin,,FAIL,Required

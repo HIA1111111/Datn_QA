@@ -1,0 +1,10 @@
+BASE_URL = "https://opensource-demo.orangehrmlive.com/web/index.php"
+VALID_USER = "Admin"
+VALID_PASS = "admin123"
+INVALID_USER = "AdminWrong"
+INVALID_PASS = "wrongPass"
+TIMEOUT = 15000
+HEADLESS = False
+SLOW_MO = 300
+DATA_FOLDER = "data"
+REPORT_FOLDER = "reports"
