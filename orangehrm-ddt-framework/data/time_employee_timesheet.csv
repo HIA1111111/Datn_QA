@@ -1,0 +1,7 @@
+tc_id,action,employee_name,expected_result
+TIME01,mo_trang_employee_timesheets,N_A,Form Select Employee hien thi
+TIME02,bo_trong_nhan_view,,Bao loi Required
+TIME03,tim_nhan_vien_ton_tai,Raja Rames Mar,Hien thi bang cham cong
+TIME04,kiem_tra_danh_sach_pending,N_A,Co records hien thi
+TIME05,tim_nhan_vien_khong_ton_tai,NguoiKhongCoXYZ,Khong co goi y
+TIME06,xem_chi_tiet_timesheet,Raja Rames Mar,Mo trang chi tiet timesheet
